@@ -1,0 +1,7 @@
+Hey! Here's a quick summary of what tools are included in here:
+(RUN IN PYTHON3 UNLESS OTHERWISE STATED)
+
+pwg.py - prompts a user for the length of a password and 
+returns a mixed character password that should be secure enough
+for your business 
+
